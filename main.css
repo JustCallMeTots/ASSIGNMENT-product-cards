@@ -1,3 +1,23 @@
 body {
-    background-color: rosybrown;
+    background-color: black;
+}
+.cards {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 50px;
+    border: 20px lightblue;
+}
+.card-title {
+    background-color: blue;
+    color: white;
+    display: flex;
+    justify-content: center;
+    border: 20px lightblue;
+}
+.available {
+    background-color: darkgreen;
+    color: white;
+    display: flex;
+    justify-content: center;
 }
