@@ -9,15 +9,18 @@ body {
     border: 20px lightblue;
 }
 .card-title {
-    background-color: blue;
+    background-color: black;
     color: white;
     display: flex;
     justify-content: center;
-    border: 20px lightblue;
+    border: 1px lightblue;
 }
 .available {
     background-color: darkgreen;
     color: white;
     display: flex;
     justify-content: center;
+}
+.card {
+    background-color: lightblue;
 }
